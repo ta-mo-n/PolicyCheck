@@ -1,7 +1,13 @@
 PolicyCheck.exeを実行してください
 
+「CHECK」ボタンからローカルポリシーの判定を実行します。
 
-``` PolicyCheck.ini
+<img width="896" height="523" alt="image" src="https://github.com/user-attachments/assets/b8bc83d2-95d7-4a42-8c13-a4d262be8561" />
+
+設定は以下のファイル設定してください
+
+PolicyCheck.ini
+``` 
 [script]
 path=./script/GetPolcyScript.ps1
 
